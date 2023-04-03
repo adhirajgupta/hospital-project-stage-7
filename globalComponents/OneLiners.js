@@ -1,0 +1,14 @@
+export const OneLiner = {
+   diabetes:"Dr. Pradyumn Sharma is on a mission of Zero Diabetic India, under his guided treatment many patients have successfully reversed this chronic disease. You can follow him on You Tube (@pradyumnsharma4419). For personalized guidance designed for your body type book a slot now.",
+    asthma:"Dr. P. Sharma holds 40 years of Asthma treating experience. Under his guidance patients find great relief from conditions such as wheezing (whistling sound while breathing) ,shortness of breath, uncontrolled coughing.",
+    allergy:"Even unknown allergies can be identified by the intense tests and reporting carried out at hospital owned labs. Get relief from medications and prevention measures customized for your body type. To get treated book a slot now",
+    piles:"A specialist at National level, Dr. P. Sharma relieves the patient form the acute pain by treating swelling through cryosurgery. Walk out of the hospital on the same day with lot of ease and comfort. Book a slot to seek treatment now.",
+    skin:"Cross border patients have trusted Dr. P. Sharma  since years for various skin treatments. The latest success story is of a lady suffering from skin disease from past 25 years got massive results within 2 months under the treatment of Dr. P Sharma. Get your treatment early by booking a slot now",
+    ent:"A seasoned expert from SMS, Dr. Sachin Sharma holds finesse in hands while operating acute complications. Get yours treated today. Book a slot now.",
+    dental:"Patients from various countries have shown their confidence in her by giving repeated visits for their complete treatment. An expert with soft hands, Dr. Mahima Sharma handles her patients with utmost care. Book your slot now to get relieve from the pain.",
+    cosmetology:"Equipped with latest technology, Dr. Mahima Sharma provides with Hydra Facial Treatment for reverse aging effect on skin. Book your slot now for customized treatment.",
+    hair:"Facing hair loss, trust Dr. Mahima’s PRP Treatment which is relatively painless and requires zero recovery time. Book you slot now and get a revamped look.",
+    homeopathy:"MD in Homeopathy, Dr. Manjushree Sharma, is the dear ‘Doctor Dadi’ for many young patients who love the sweet magic pills treatment given by her, taking their pains away. An in-depth patient history based treatment results in treating the root cause of the problem. Get yours’ fixed today by booking a slot today.",
+    pharmacy:"At market competitive prices, you can find all the doctor prescribed medicines under one roof. Call for further enquiry ",
+    labtest:"Book lab tests online for all diagnostic procedures from the most trusted pathology lab from the comfort of your home and get the test reports online."
+}
